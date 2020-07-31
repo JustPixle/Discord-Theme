@@ -1,3 +1,3 @@
 # Discord-Theme
 How to install?
-use "@import url("https://github.com/JustPixle/Discord-Theme/Young-nauper.theme.css")"
+use "@import url("https://Justpixle.github.ioDiscord-Theme/Young-nauper.theme.css")"
